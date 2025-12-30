@@ -1,0 +1,57 @@
+review_id,product_url,text,rating,date_raw,date,is_from_2023
+cat-ear-beanie-5,https://web-scraping.dev/product/12,A must-have for cat lovers. It's adorable and keeps me warm during chilly weather.,4,2023-01-10,2023-01-10,True
+cat-ear-beanie-5,https://web-scraping.dev/product/24,A must-have for cat lovers. It's adorable and keeps me warm during chilly weather.,4,2023-01-10,2023-01-10,True
+dark-red-potion-1,https://web-scraping.dev/product/2,The cherry cola flavor is very appealing. Provides a good energy boost for gaming!,4,2023-02-12,2023-02-12,True
+dark-red-potion-2,https://web-scraping.dev/product/2,"Definitely helped me stay focused during my long gaming nights. Plus, the bottle design is pretty cool.",5,2023-03-14,2023-03-14,True
+dark-red-potion-3,https://web-scraping.dev/product/2,"Great taste, and the energy kick is awesome. Feels just like a strength potion.",5,2023-04-05,2023-04-05,True
+dark-red-potion-4,https://web-scraping.dev/product/2,The cherry cola flavor is a win. Keeps me energized and focused.,5,2023-05-12,2023-05-12,True
+teal-potion-1,https://web-scraping.dev/product/3,The mint and citrus blend is very refreshing. And the bottle design is great too!,5,2023-02-12,2023-02-12,True
+teal-potion-2,https://web-scraping.dev/product/3,"I love how it gives me the energy I need for my gaming sessions. Plus, no sugar crash.",4,2023-03-14,2023-03-14,True
+teal-potion-3,https://web-scraping.dev/product/3,Really helps me focus during intense gaming marathons. The teal color is a nice touch.,5,2023-04-07,2023-04-07,True
+teal-potion-4,https://web-scraping.dev/product/3,Unique flavor and great energy boost. It's the perfect gamer's drink!,5,2023-05-18,2023-05-18,True
+red-potion-1,https://web-scraping.dev/product/4,The berry flavor is intense and delicious. Great for keeping me focused during my gaming sessions.,5,2023-02-10,2023-02-10,True
+red-potion-2,https://web-scraping.dev/product/4,"Not only does it look cool, but it tastes great and gives a good energy boost!",5,2023-03-20,2023-03-20,True
+red-potion-3,https://web-scraping.dev/product/4,It's like a health potion for gamers! The energy boost is spot on.,4,2023-04-09,2023-04-09,True
+red-potion-4,https://web-scraping.dev/product/4,Good flavor and keeps me energized. The bottle design is really fun.,5,2023-05-17,2023-05-17,True
+blue-energy-potion-1,https://web-scraping.dev/product/5,The design is just epic! And the energy boost is real.,4,2023-01-15,2023-01-15,True
+blue-energy-potion-2,https://web-scraping.dev/product/5,Perfect for long gaming nights. Love the taste and the cool bottle design.,5,2023-02-20,2023-02-20,True
+blue-energy-potion-3,https://web-scraping.dev/product/5,"Finally, an energy drink for gamers! It's just like a mana potion.",5,2023-03-10,2023-03-10,True
+blue-energy-potion-4,https://web-scraping.dev/product/5,Great taste and doesn't give me a crash afterwards.,4,2023-04-01,2023-04-01,True
+blue-energy-potion-5,https://web-scraping.dev/product/5,Really enjoyed the citrus flavor and the energy boost it gives.,5,2023-04-25,2023-04-25,True
+dragon-potion-1,https://web-scraping.dev/product/6,"The tropical flavor is really good, and the energy kick is powerful.",5,2023-02-18,2023-02-18,True
+dragon-potion-2,https://web-scraping.dev/product/6,Just what I need for long gaming sessions. Great flavor and energy boost.,5,2023-03-15,2023-03-15,True
+dragon-potion-3,https://web-scraping.dev/product/6,This potion is a game changer. Love the energy boost and the flavor.,5,2023-04-11,2023-04-11,True
+dragon-potion-4,https://web-scraping.dev/product/6,Excellent energy drink for gamers. The tropical flavor is refreshing.,4,2023-05-16,2023-05-16,True
+dark-red-potion-1,https://web-scraping.dev/product/14,The cherry cola flavor is very appealing. Provides a good energy boost for gaming!,4,2023-02-12,2023-02-12,True
+dark-red-potion-2,https://web-scraping.dev/product/14,"Definitely helped me stay focused during my long gaming nights. Plus, the bottle design is pretty cool.",5,2023-03-14,2023-03-14,True
+dark-red-potion-3,https://web-scraping.dev/product/14,"Great taste, and the energy kick is awesome. Feels just like a strength potion.",5,2023-04-05,2023-04-05,True
+dark-red-potion-4,https://web-scraping.dev/product/14,The cherry cola flavor is a win. Keeps me energized and focused.,5,2023-05-12,2023-05-12,True
+teal-potion-1,https://web-scraping.dev/product/15,The mint and citrus blend is very refreshing. And the bottle design is great too!,5,2023-02-12,2023-02-12,True
+teal-potion-2,https://web-scraping.dev/product/15,"I love how it gives me the energy I need for my gaming sessions. Plus, no sugar crash.",4,2023-03-14,2023-03-14,True
+teal-potion-3,https://web-scraping.dev/product/15,Really helps me focus during intense gaming marathons. The teal color is a nice touch.,5,2023-04-07,2023-04-07,True
+teal-potion-4,https://web-scraping.dev/product/15,Unique flavor and great energy boost. It's the perfect gamer's drink!,5,2023-05-18,2023-05-18,True
+red-potion-1,https://web-scraping.dev/product/16,The berry flavor is intense and delicious. Great for keeping me focused during my gaming sessions.,5,2023-02-10,2023-02-10,True
+red-potion-2,https://web-scraping.dev/product/16,"Not only does it look cool, but it tastes great and gives a good energy boost!",5,2023-03-20,2023-03-20,True
+red-potion-3,https://web-scraping.dev/product/16,It's like a health potion for gamers! The energy boost is spot on.,4,2023-04-09,2023-04-09,True
+red-potion-4,https://web-scraping.dev/product/16,Good flavor and keeps me energized. The bottle design is really fun.,5,2023-05-17,2023-05-17,True
+blue-energy-potion-1,https://web-scraping.dev/product/17,The design is just epic! And the energy boost is real.,4,2023-01-15,2023-01-15,True
+blue-energy-potion-2,https://web-scraping.dev/product/17,Perfect for long gaming nights. Love the taste and the cool bottle design.,5,2023-02-20,2023-02-20,True
+blue-energy-potion-3,https://web-scraping.dev/product/17,"Finally, an energy drink for gamers! It's just like a mana potion.",5,2023-03-10,2023-03-10,True
+blue-energy-potion-4,https://web-scraping.dev/product/17,Great taste and doesn't give me a crash afterwards.,4,2023-04-01,2023-04-01,True
+blue-energy-potion-5,https://web-scraping.dev/product/17,Really enjoyed the citrus flavor and the energy boost it gives.,5,2023-04-25,2023-04-25,True
+dragon-potion-1,https://web-scraping.dev/product/18,"The tropical flavor is really good, and the energy kick is powerful.",5,2023-02-18,2023-02-18,True
+dragon-potion-2,https://web-scraping.dev/product/18,Just what I need for long gaming sessions. Great flavor and energy boost.,5,2023-03-15,2023-03-15,True
+dragon-potion-3,https://web-scraping.dev/product/18,This potion is a game changer. Love the energy boost and the flavor.,5,2023-04-11,2023-04-11,True
+dragon-potion-4,https://web-scraping.dev/product/18,Excellent energy drink for gamers. The tropical flavor is refreshing.,4,2023-05-16,2023-05-16,True
+dark-red-potion-1,https://web-scraping.dev/product/26,The cherry cola flavor is very appealing. Provides a good energy boost for gaming!,4,2023-02-12,2023-02-12,True
+dark-red-potion-2,https://web-scraping.dev/product/26,"Definitely helped me stay focused during my long gaming nights. Plus, the bottle design is pretty cool.",5,2023-03-14,2023-03-14,True
+dark-red-potion-3,https://web-scraping.dev/product/26,"Great taste, and the energy kick is awesome. Feels just like a strength potion.",5,2023-04-05,2023-04-05,True
+dark-red-potion-4,https://web-scraping.dev/product/26,The cherry cola flavor is a win. Keeps me energized and focused.,5,2023-05-12,2023-05-12,True
+teal-potion-1,https://web-scraping.dev/product/27,The mint and citrus blend is very refreshing. And the bottle design is great too!,5,2023-02-12,2023-02-12,True
+teal-potion-2,https://web-scraping.dev/product/27,"I love how it gives me the energy I need for my gaming sessions. Plus, no sugar crash.",4,2023-03-14,2023-03-14,True
+teal-potion-3,https://web-scraping.dev/product/27,Really helps me focus during intense gaming marathons. The teal color is a nice touch.,5,2023-04-07,2023-04-07,True
+teal-potion-4,https://web-scraping.dev/product/27,Unique flavor and great energy boost. It's the perfect gamer's drink!,5,2023-05-18,2023-05-18,True
+red-potion-1,https://web-scraping.dev/product/28,The berry flavor is intense and delicious. Great for keeping me focused during my gaming sessions.,5,2023-02-10,2023-02-10,True
+red-potion-2,https://web-scraping.dev/product/28,"Not only does it look cool, but it tastes great and gives a good energy boost!",5,2023-03-20,2023-03-20,True
+red-potion-3,https://web-scraping.dev/product/28,It's like a health potion for gamers! The energy boost is spot on.,4,2023-04-09,2023-04-09,True
+red-potion-4,https://web-scraping.dev/product/28,Good flavor and keeps me energized. The bottle design is really fun.,5,2023-05-17,2023-05-17,True
